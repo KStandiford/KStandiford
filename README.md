@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+So, the short bio says I'm retired. But I'm still learning, and trying to catch up with the field where I started. It's *really* a new world for software development!
+
+When I started, *real* computers filled a big room, not including their air conditioner, which filled another one. "Mini" computers filled an electronics rack. Memory was $0.50/byte. One Mhz was a fast CPU clock. Programmers got paid $5/hour. Oh, and a 1 MByte removable disk platter cost $100, but the drive and controller to use it was about $20k. Can you guess what we spent our time doing?
+
+If you guessed we were working mostly on getting rid of extra memory bytes and clock cycles, you were right! Eventually I went off and started working for a little company names Etec, building electron beam lithography machines to make masks for the Semiconductor industry. (Masks are the "negatives" which are printed on wafers to make chips.) At that time, there was trouble making the masks for 16 kbit memory chips. Masks for the first available sample chips were made on our prototype tool. Over twenty years, we made quite some progress!
+
+These days I've been fascinated by the newest generations of Single Board Computers and the ready availablity of micro-controllers along with all manner of peripherals for them. So I finally took the plunge and spent the big bucks (*$4!!!*) on a Raspberry Pi Pico. (Buy two, they're small!). Now I'm drinking from the fire hose trying to learn about Github, VSCode, Make, CMake, C++ enhancements, and all the rest that makes the modern world of software development so different from the old "Wild West" days of my past. Maybe I'll even finish automating my old exercise bike one day!
+
+But Learning is still my passion. When I stop, please nail the lid on the box and start throwing dirt on the top, because I have died. Until then, on to something new!
+
 <!--
 **KStandiford/KStandiford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
